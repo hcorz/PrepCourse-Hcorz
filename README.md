@@ -1,2 +1,1 @@
-# PrepCourse-Hcorz
-Testeando proyecto de prueba
+Este proyecto es una prueba para github
